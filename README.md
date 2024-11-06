@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alphacoding20
-- 👀 I’m interested in rythm games
-- 🌱 I’m currently learning how to create osu skins
-- 💞️ I’m looking to collaborate on ;)
+- 👀 I’m interested in table tennis
+- 🌱 I’m currently learning to code html
+- 💞️ I’m looking to collaborate on...nothing jejej
 - 📫 How to reach me ...
 
 <!---
